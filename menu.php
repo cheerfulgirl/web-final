@@ -41,28 +41,36 @@
         <h3>粥粉麵飯</h3>
         <section>
             <div>
-                <img class="food-img shrink" src="image/food01.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food01.png">
+                </div>
                 <p>揚州炒飯 NT$160</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
                 <img class="circle" src="image/plus_circle.png">
             </div>
             <div>
-                <img class="food-img shrink" src="image/food02.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food02.png">
+                </div>
                 <p>咸魚肉餅飯 NT$150</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
                 <img class="circle" src="image/plus_circle.png">
             </div>
             <div>
-                <img class="food-img" src="image/food03.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food03.png">
+                </div>
                 <p>干炒牛肉河粉 NT$160</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
                 <img class="circle" src="image/plus_circle.png">
             </div>
             <div>
-                <img class="food-img" src="image/food04.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food04.png">
+                </div>
                 <p>潮州四寶湯米線 NT$140</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
@@ -72,28 +80,36 @@
         <h3>蒸籠點心</h3>
         <section>
             <div>
-                <img class="food-img" src="image/food05.png">
-                <p>水晶蝦餃 NT$160</p>
+                <div class="shrink">
+                    <img class="food-img" src="image/food05.png">
+                </div>
+                    <p>水晶蝦餃 NT$160</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
                 <img class="circle" src="image/plus_circle.png">
             </div>
             <div>
-                <img class="food-img" src="image/food06.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food06.png">
+                </div>
                 <p>蟹籽燒賣 NT$160</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
                 <img class="circle" src="image/plus_circle.png">
             </div>
             <div>
-                <img class="food-img" src="image/food07.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food07.png">
+                </div>
                 <p>流沙奶黃包 NT$160</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
                 <img class="circle" src="image/plus_circle.png">
             </div>
             <div>
-                <img class="food-img" src="image/food08.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food08.png">
+                </div>
                 <p>懷舊叉燒包 NT$160</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
@@ -103,28 +119,36 @@
         <h3>美味小吃</h3>
         <section>
             <div>
-                <img class="food-img" src="image/food09.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food09.png">
+                </div>
                 <p>臘味蘿蔔糕 NT$80</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
                 <img class="circle" src="image/plus_circle.png">
             </div>
             <div>
-                <img class="food-img" src="image/food10.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food10.png">
+                </div>
                 <p>蝦米煎腸粉 NT$70</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
                 <img class="circle" src="image/plus_circle.png">
             </div>
             <div>
-                <img class="food-img" src="image/food11.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food11.png">
+                </div>
                 <p>豆沙煎餅 NT$70</p>
                 <img class="circle" src="image/minus_circle.png">
                 0
                 <img class="circle" src="image/plus_circle.png">
             </div>
             <div>
-                <img class="food-img" src="image/food12.png">
+                <div class="shrink">
+                    <img class="food-img" src="image/food12.png">
+                </div>
                 <p>經典西多士 NT$60</p>
                 <img class="circle" src="image/minus_circle.png">
                 0

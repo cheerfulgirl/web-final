@@ -37,21 +37,24 @@
     </header>
     
     <main class="login">
-        <div class="contact-container">
-            <h2>登入 | 註冊</h2>
+        <h2>登入</h2>
             <form>
-                <!-- <div class="row">
-                    <div class="col"> -->
-                        <input type="text" name="lastname" placeholder="*姓氏" required>
-                    <!-- </div>
-                </div> -->
-                <div class="row">
-                    <div class="col">
-                        <input type="text" name="email" placeholder="*電子信箱" required>
-                    </div>
-                </div>
+                <section>
+                    <input type="text" name="email" placeholder="電郵地址" required>
+                </section>
+                <section>
+                    <input type="password" name="password" placeholder="密碼" required>
+                </section>
+                <section>
+                    <p>忘記密碼</p>
+                </section>
+                <section>
+                    <button>登入</button>
+                </section>
+                <section>
+                    <p class="normal">沒有帳號嗎？按此<span>註冊</span></p>
+                </section>
             </form>
-        </div>
     </main>
 
     <footer>

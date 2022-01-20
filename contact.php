@@ -49,19 +49,10 @@
                 <input type="text" name="phone" placeholder="*電話號碼" required>
             </section>
             <section>
-                <input type="text" name="orderno" placeholder="*訂單號碼" required>
-                <select required>
-                        <option>*選擇問題</option>
-                        <option>Dog</option>
-                        <option>Cat</option>
-                        <option>Hamster</option>
-                    </select>
-            </section>
-            <section>
                 <textarea name="mytext" rows="6" cols="40" maxlength="250" required placeholder="輸入評論（250個剩餘字元）"></textarea>
             </section>
             <section>
-                <button style="margin: 0 42.5%;">發送</button>
+                <button>發送</button>
             </section>
         </form>
     </main>
