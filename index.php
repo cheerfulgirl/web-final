@@ -15,22 +15,29 @@
 
     <header>
         <div class="item">
-            <img src="image/menu.png">
+            <img src="image/menu.png" onclick="on()">
+            <div id="overlay" onclick="off()">
+                <nav>
+                    <div class="navbar-menu">
+                        <a href="menu.php"><p>菜單</p></a>
+                        <a href="shopinfo.php"><p>店面資訊</p></a>
+                        <a href="contact.php"><p>聯絡我們</p></a>
+                    </div>
+                </nav>
+            </div>
         </div>
         <div class="item">
             <a href="index.php"><img class="icon" src="image/icon.png"></a>
         </div>
         <div class="item">
             <div class="container">
-                <div class="item">
-                    <nav>
-                        <div class="navbar">
-                            <a href="menu.php">菜單</a>
-                            <a href="shopinfo.php">店面資訊</a>
-                            <a href="contact.php">聯絡我們</a>
-                          </div>
-                    </nav>
-                </div>
+                <nav>
+                    <div class="navbar">
+                        <a href="menu.php">菜單</a>
+                        <a href="shopinfo.php">店面資訊</a>
+                        <a href="contact.php">聯絡我們</a>
+                        </div>
+                </nav>
                 <div class="item">
                     <a href="login.php"><img src="image/user_circleperson.png"></a>
                     <a href=""><img src="image/shopping_bag.png"></a>
@@ -82,6 +89,7 @@
         </div>
     </footer>
 
+    <script src="js/reaction.js"></script>
     <script>
     function openNav() {
         document.getElementById("mySidebar").style.width = "250px";
