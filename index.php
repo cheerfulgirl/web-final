@@ -15,6 +15,9 @@
 
     <header>
         <div class="item">
+            <img src="image/menu.png">
+        </div>
+        <div class="item">
             <a href="index.php"><img class="icon" src="image/icon.png"></a>
         </div>
         <div class="item">
